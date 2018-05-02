@@ -4371,6 +4371,9 @@
   "/lotus/storeitems/types/recipes/helmets/nekrosshroudhelmetblueprint": {
     "value": "Nekros Shroud Helmet Blueprint"
   },
+  "/lotus/storeItems/types/recipes/helmets/nezhaalt2helmetblueprint": {
+    "value": "Nezha Jinza Helmet Blueprint" 
+  },
   "/lotus/storeitems/types/recipes/helmets/nezhaalthelmetblueprint": {
     "value": "Nezha Circa Helmet Blueprint"
   },
